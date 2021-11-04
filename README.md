@@ -1,1 +1,1 @@
-# First-code
+# Rock Paper Scissors
